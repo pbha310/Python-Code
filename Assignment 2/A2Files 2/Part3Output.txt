@@ -1,0 +1,28 @@
+get_list_of_dice_rolls()
+Note:  the dice values are random so your output will be different.
+
+Should be a list of 3 random dice values: [6, 4, 2]
+Should be a list of 1 random dice value: [6]
+Should be a list of 5 random dice values: [1, 4, 3, 5, 3]
+Should be a list of 4 random dice values: [2, 1, 3, 3]
+---------------------------
+---------------------------
+get_score()
+4 0 3 4 5 0
+---------------------------
+---------------------------
+Note:  the dice values are random so your output will be different.
+Check that your scores are correct for the dice which are rolled.
+
+process_player_turn()
+  Adriana's turn
+    Dice:  6 2 3 4 5
+Player score:  0
+
+  Joe's turn
+    Dice:  5 2 6 1 2
+    Two 2's. Roll the remaining 3 dice.
+    Dice:  2 2 6 4 6
+Player score:  0
+---------------------------
+---------------------------

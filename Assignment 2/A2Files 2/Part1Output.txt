@@ -1,0 +1,47 @@
+display_welcome()
+
+Welcome to DICEY, written by afer023
+
+---------------------------
+---------------------------
+display_turn_info()
+  Harry's turn
+  Joe's turn
+---------------------------
+---------------------------
+display_dice()
+    Dice:  2 2 4 6 3
+    Dice:  3 6 4 3 5
+    Dice:  2 6 4 6
+---------------------------
+---------------------------
+display_exactly_two_matches_message()
+    Two 4's. Roll the remaining 3 dice.
+    Two 1's. Roll the remaining 3 dice.
+---------------------------
+---------------------------
+display_round_results()
+Round 2 results: Adriana has 6 points, and Bruno has 7 points
+
+Round 1 results: Jim has 4 points, and Jill has 3 points
+
+---------------------------
+---------------------------
+display_final_results()
+
+**************************
+Congratulations to Hilbert
+**************************
+
+
+*******************
+The result is a tie
+*******************
+
+
+************************
+Congratulations to Jerry
+************************
+
+---------------------------
+---------------------------
